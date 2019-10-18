@@ -22,3 +22,4 @@ Rocio
 * Guión literario modificaciones
 * cinemáticas
 * globo dialogo, caja texto, NPC clase
+
